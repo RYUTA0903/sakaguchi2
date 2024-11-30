@@ -1,0 +1,30 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+.theme {
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+li {
+    font-size: 2rem;
+}
+
+img {
+    width: 50%;
+    margin: 30px;
+    border: 1px solid #000;
+}
+
+img.big {
+    width: 25%;
+}
